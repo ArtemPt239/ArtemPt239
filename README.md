@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Here is my [CV](CV_ARTEM_PETROV.pdf)
+
 <!--
 **ArtemPt239/ArtemPt239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
